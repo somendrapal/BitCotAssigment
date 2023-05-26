@@ -1,38 +1,74 @@
-.App {
-  text-align: center;
+.App{
+  width: 50%;
 }
+.header{
+  margin-left: 1%;
+  margin-top: 1%;
+  width: 98%;
+  height: 35px;
+background-color:#ADD8E6;
+border-radius: 5px;
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.contact{
   color: white;
+  padding-top: 3px;
+  padding-left: 47%;
 }
+.search{
+  width: 10%;
+  height: 25px;
+  color: white;
+  margin-top: 12px;
+  margin-left: 46%;
+  border-radius: 5px;
 
-.App-link {
-  color: #61dafb;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.contact-list{
+  
+  width: 98%;
+  height: 80px;
+  background-color: white;
+}
+.icon{
+  margin-top: -6%;
+  padding-left: 5%;
+  color: black;
+}
+.icon3{
+  height: 15;
+  margin-top:-4.5%;
+  padding-left: 89%;
+  color: black;
+}
+.icon2{
+  height: 15;
+  margin-top:-5.0%;
+  padding-left: 82%;
+  color: black;
+}
+.icon1{
+  height: 15;
+  margin-top:-9.5%;
+  padding-left: 75%;
+  color: black;
+}
+.add{
+margin-left: 10px;
+margin-top:5% ;
+}
+input{
+  background-color: aliceblue;
+  width: 80%;
+  height: 25px;
+}
+.addcontact{
+  margin-top:1%;
+}
+.close{
+  padding-left: 85%;
+  margin-top: -15%;
+}
+.view{
+  background-color:grey;
 }

@@ -1,0 +1,25 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Aaron",
+        "email": "aaron@gmail.com",
+        "phone": "9878532421",
+        "Address": "Near court road"
+      },
+      {
+        "id": 2,
+        "name": "somendra",
+        "email": "somendra@gmail.com",
+        "phone": "9878532421",
+        "Address": "City Center"
+      },
+      {
+        "id": 3,
+        "name": "eshu",
+        "email": "eshu@gmail.com",
+        "phone": "70244669977",
+        "Address": "A.B road"
+      }
+    ]
+  }
